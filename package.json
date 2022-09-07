@@ -1,0 +1,24 @@
+{
+  "name": "random-str-msgc",
+  "version": "1.0.0",
+  "description": "Random String Messages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Misael-GC/random-str-msgc.git"
+  },
+  "keywords": [],
+  "author": "Misael Gomez Cuautle <misael.gomez1623@gmsil.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Misael-GC/random-str-msgc/issues"
+  },
+  "homepage": "https://github.com/Misael-GC/random-str-msgc#readme",
+  "bin": {
+    "random-str-msgc": "./bin/global.js"
+  },
+  "preferGlobal": true
+}
